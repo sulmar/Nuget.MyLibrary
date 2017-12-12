@@ -8,5 +8,9 @@ namespace Nuget.MyLibrary.net46
 {
     public class Class1
     {
+        public void Hello()
+        {
+            Console.WriteLine("Hello .NET 4.6!");
+        }
     }
 }
